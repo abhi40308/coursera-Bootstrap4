@@ -76,6 +76,9 @@ body{
 .modal-header {
 	color : floralwhite;
 	background: $background-light;
+	button.close{
+			color: floralwhite;
+	}
 }
 
 .modal-body {
@@ -84,13 +87,4 @@ body{
 
 .modal-footer {
 	background : #CFD3DC;
-}
-
-#cancel-btn-login{
-	background : floralwhite;
-}
-
-#cancel-btn-reserve{
-	background : floralwhite;
-	
 }

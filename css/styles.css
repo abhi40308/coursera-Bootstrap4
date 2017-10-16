@@ -55,15 +55,11 @@ body {
 .modal-header {
   color: floralwhite;
   background: grey; }
+  .modal-header button.close {
+    color: floralwhite; }
 
 .modal-body {
   background: #DBDEE3; }
 
 .modal-footer {
   background: #CFD3DC; }
-
-#cancel-btn-login {
-  background: floralwhite; }
-
-#cancel-btn-reserve {
-  background: floralwhite; }
